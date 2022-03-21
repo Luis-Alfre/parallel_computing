@@ -1,0 +1,120 @@
+
+
+**__** # PROCESADORES = 1 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.656473 
+ - Suma de elementos pararell = 852515917 - tiempo = 0.649960 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.657477 
+ - Suma de elementos pararell = 852515917 - tiempo = 0.649550 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.655875 
+ - Suma de elementos pararell = 852515917 - tiempo = 0.648319 
+
+
+**__** # PROCESADORES = 2 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.653725 
+ - Suma de elementos pararell = 1155029223 - tiempo = 0.361642 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.659672 
+ - Suma de elementos pararell = 1155029223 - tiempo = 0.348083 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.658912 
+ - Suma de elementos pararell = 1155029223 - tiempo = 0.349694 
+
+
+**__** # PROCESADORES = 3 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.658154 
+ - Suma de elementos pararell = 758441835 - tiempo = 0.262336 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.661847 
+ - Suma de elementos pararell = 758441835 - tiempo = 0.251393 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.656804 
+ - Suma de elementos pararell = 758441835 - tiempo = 0.253710 
+
+
+**__** # PROCESADORES = 4 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.660485 
+ - Suma de elementos pararell = 985062525 - tiempo = 0.218276 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.663126 
+ - Suma de elementos pararell = 985062525 - tiempo = 0.201114 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.660518 
+ - Suma de elementos pararell = 985062525 - tiempo = 0.201577 
+
+
+**__** # PROCESADORES = 5 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.660617 
+ - Suma de elementos pararell = 902572649 - tiempo = 0.175955 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.661638 
+ - Suma de elementos pararell = 902572649 - tiempo = 0.168400 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.660129 
+ - Suma de elementos pararell = 902572649 - tiempo = 0.163846 
+
+
+**__** # PROCESADORES = 6 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.658359 
+ - Suma de elementos pararell = 1183401370 - tiempo = 0.142080 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.661389 
+ - Suma de elementos pararell = 1183401370 - tiempo = 0.143456 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.659635 
+ - Suma de elementos pararell = 1183401370 - tiempo = 0.139799 
+
+
+**__** # PROCESADORES = 7 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.664573 
+ - Suma de elementos pararell = 950670486 - tiempo = 0.122347 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.662755 
+ - Suma de elementos pararell = 950670486 - tiempo = 0.126580 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.662174 
+ - Suma de elementos pararell = 950670486 - tiempo = 0.125358 
+
+
+**__** # PROCESADORES = 8 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.658809 
+ - Suma de elementos pararell = 1252561854 - tiempo = 0.115792 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.655379 
+ - Suma de elementos pararell = 1252561854 - tiempo = 0.112472 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.659187 
+ - Suma de elementos pararell = 1252561854 - tiempo = 0.111663 
+
+
+**__** # PROCESADORES = 9 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.659092 
+ - Suma de elementos pararell = 1115376090 - tiempo = 0.115369 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.653636 
+ - Suma de elementos pararell = 1115376090 - tiempo = 0.126138 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.656407 
+ - Suma de elementos pararell = 1115376090 - tiempo = 0.129633 
+
+
+**__** # PROCESADORES = 10 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.656534 
+ - Suma de elementos pararell = 935058175 - tiempo = 0.124907 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.689243 
+ - Suma de elementos pararell = 935058175 - tiempo = 0.121613 
+
+ - **_**Suma de elementos secuencial = 852515917 - tiempo = 0.653915 
+ - Suma de elementos pararell = 935058175 - tiempo = 0.121896 

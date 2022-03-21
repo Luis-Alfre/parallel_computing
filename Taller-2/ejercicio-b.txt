@@ -1,0 +1,180 @@
+
+
+**__** # PROCESADORES = 1 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000049 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000056 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000049 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000050 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000049 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000049 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000049 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000050 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000049 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000049 
+
+
+**__** # PROCESADORES = 2 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000049 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000090 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000049 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000027 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000049 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000026 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000049 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000026 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000049 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000026 
+
+
+**__** # PROCESADORES = 3 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000049 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000097 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000048 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000020 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000049 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000020 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000049 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000021 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000049 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000018 
+
+
+**__** # PROCESADORES = 4 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000049 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000079 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000049 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000014 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000049 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000014 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000049 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000014 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000049 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000014 
+
+
+**__** # PROCESADORES = 5 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000049 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000100 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000048 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000023 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000048 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000013 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000048 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000013 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000048 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000013 
+
+
+**__** # PROCESADORES = 6 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000048 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000088 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000048 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000012 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000048 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000012 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000048 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000014 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000048 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000013 
+
+
+**__** # PROCESADORES = 7 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000048 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000189 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000048 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000011 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000048 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000012 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000056 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000012 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000048 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000015 
+
+
+**__** # PROCESADORES = 8 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000053 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.002207 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000050 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000330 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000048 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000009 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000048 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000009 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000048 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000009 
+
+
+**__** # PROCESADORES = 9 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000048 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000122 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000049 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000079 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000057 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000090 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000049 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000070 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000047 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000069 
+
+
+**__** # PROCESADORES = 10 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000047 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000142 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000048 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000048 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000047 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000057 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000047 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000054 
+
+ - **_**Suma de elementos secuencial = 50005000 - tiempo = 0.000047 
+ - Suma de elementos pararell = 50005000 - tiempo = 0.000054 
