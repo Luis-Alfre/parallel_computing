@@ -1,0 +1,120 @@
+
+
+**__** # PROCESADORES = 1 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.416684 
+ - Suma de elementos pararell = 0 - tiempo = 0.388848 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.387333 
+ - Suma de elementos pararell = 0 - tiempo = 0.387470 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.388595 
+ - Suma de elementos pararell = 0 - tiempo = 0.386091 
+
+
+**__** # PROCESADORES = 2 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.390849 
+ - Suma de elementos pararell = 0 - tiempo = 0.252906 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.400084 
+ - Suma de elementos pararell = 0 - tiempo = 0.242989 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.393940 
+ - Suma de elementos pararell = 0 - tiempo = 0.241598 
+
+
+**__** # PROCESADORES = 3 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.396764 
+ - Suma de elementos pararell = 0 - tiempo = 0.183016 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.396875 
+ - Suma de elementos pararell = 0 - tiempo = 0.170924 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.394983 
+ - Suma de elementos pararell = 0 - tiempo = 0.171170 
+
+
+**__** # PROCESADORES = 4 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.396476 
+ - Suma de elementos pararell = 0 - tiempo = 0.168163 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.393159 
+ - Suma de elementos pararell = 0 - tiempo = 0.134685 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.393285 
+ - Suma de elementos pararell = 0 - tiempo = 0.135274 
+
+
+**__** # PROCESADORES = 5 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.393647 
+ - Suma de elementos pararell = 0 - tiempo = 0.163690 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.424155 
+ - Suma de elementos pararell = 0 - tiempo = 0.152842 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.405461 
+ - Suma de elementos pararell = 0 - tiempo = 0.156179 
+
+
+**__** # PROCESADORES = 6 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.400818 
+ - Suma de elementos pararell = 0 - tiempo = 0.138538 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.420551 
+ - Suma de elementos pararell = 0 - tiempo = 0.148775 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.421430 
+ - Suma de elementos pararell = 0 - tiempo = 0.144199 
+
+
+**__** # PROCESADORES = 7 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.429807 
+ - Suma de elementos pararell = 0 - tiempo = 0.133789 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.438539 
+ - Suma de elementos pararell = 0 - tiempo = 0.190178 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.480850 
+ - Suma de elementos pararell = 0 - tiempo = 0.151629 
+
+
+**__** # PROCESADORES = 8 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.433299 
+ - Suma de elementos pararell = 0 - tiempo = 0.134462 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.430483 
+ - Suma de elementos pararell = 0 - tiempo = 0.137113 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.428592 
+ - Suma de elementos pararell = 0 - tiempo = 0.216450 
+
+
+**__** # PROCESADORES = 9 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.447128 
+ - Suma de elementos pararell = 0 - tiempo = 0.147396 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.456484 
+ - Suma de elementos pararell = 0 - tiempo = 0.143369 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.457205 
+ - Suma de elementos pararell = 0 - tiempo = 0.158250 
+
+
+**__** # PROCESADORES = 10 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.430977 
+ - Suma de elementos pararell = 0 - tiempo = 0.129236 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.440470 
+ - Suma de elementos pararell = 0 - tiempo = 0.159519 
+
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.441425 
+ - Suma de elementos pararell = 0 - tiempo = 0.161103 

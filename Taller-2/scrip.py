@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
-with open('ejercicio-c.txt') as f:
+with open('ejercicio-g.txt') as f:
     lines = f.readlines()
 
 
