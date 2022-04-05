@@ -269,6 +269,19 @@ La función debe retornar:
 hijo1, hijo2: Vectores correspondientes a los decendientes de los caminos padre
      
 */		
+
+void subCruce(int inicial, int final, int padre[], int hijo[], int vector1[], int vector2[], int tam, int nCiudades){
+	for (int i = inicial; i < final; i++){
+		int num = padre[i];
+		int e = existe(hijo, num, nCiudades);
+		while (e == 1)
+		{
+			num = buscarPareja(vector1, vector2, num, tam);
+			e = existe(hijo, num, nCiudades);
+		}
+		hijo[i] = num;
+	}
+}
 	 
 void cruce(int padre1[], int padre2[], int hijo1[], int hijo2[],int nCiudades)
 {
@@ -303,68 +316,57 @@ void cruce(int padre1[], int padre2[], int hijo1[], int hijo2[],int nCiudades)
 	//primera parte del hijo1, se toma la primera parte del padre 1, pero si algun
     //valor se repite, es reemplazado según la relacion establecida entre los genes
     //de la parte central.
+	subCruce(0,pCruce1,padre1,hijo1,vector2,vector1,tam,nCiudades);
 
-    for(int i=0; i<pCruce1;i++)
-    {
-    	int num = padre1[i];
-    	int e = existe(hijo1,num,nCiudades);
-    	while(e==1)
-    	{
-    		num = buscarPareja(vector2,vector1,num,tam);
-    		e = existe(hijo1,num,nCiudades);
-		}
-		hijo1[i] = num;
-	}
 	// Segunda parte del hijo1, se toma la segunda parte del padre 1, pero si algun
     // valor se repite, es reemplazado según la relacion establecida entre los genes
     // de la parte central.
-    
-    for(int i=pCruce2; i<nCiudades;i++)
-    {
-    	int num = padre1[i];
-    	int e = existe(hijo1,num,nCiudades);
-    	while(e==1)
-    	{
-    		num = buscarPareja(vector2,vector1,num,tam);
-    		e = existe(hijo1,num,nCiudades);
-		}
-		hijo1[i] = num;
-	}
+    subCruce(pCruce2,nCiudades,padre1,hijo1,vector2,vector1,tam,nCiudades);
+
 	//Primera parte del hijo2, se toma la primera parte del padre 2, pero si algun
     //valor se repite, es reemplazado según la relacion establecida entre los genes
     //de la parte central.
 
-	for(int i=0; i<pCruce1;i++)
-		{
-			int num = padre2[i];
-			int e = existe(hijo2,num,nCiudades);
-			while(e==1)
-			{
-				num = buscarPareja(vector1,vector2,num,tam);
-				e = existe(hijo2,num,nCiudades);
-			}
-			hijo2[i] = num;
-		}
+	subCruce(0,pCruce1,padre2,hijo2,vector1,vector2,tam,nCiudades);
 	//Segunda parte del hijo2, se toma la segunda parte del padre 2, pero si algun
     //valor se repite, es reemplazado según la relacion establecida entre los genes
     //de la parte central.
 
-	  for(int i=pCruce2; i<nCiudades;i++)
-    {
-    	int num = padre2[i];
-    	int e = existe(hijo2,num,nCiudades);
-    	while(e==1)
-    	{
-    		num = buscarPareja(vector1,vector2,num,tam);
-    		e = existe(hijo2,num,nCiudades);
-		}
-		hijo2[i] = num;
-	}
-    
-    
+	subCruce(pCruce2,nCiudades,padre2,hijo2,vector1,vector2,tam,nCiudades);
+
 	free(vector1);
 	free(vector2);
  }
+
+
+ int mutacion(int poblacion[], double distancia[], double aptitud[],double probMutacion, double matrizDistancias[], int tamPoblacion, int nCiudades){
+	int mutados = 0;
+	int i, j, mutado, *individuo;
+	individuo = (int *)malloc(nCiudades * sizeof(int));
+	double prob;
+	for (i = 0; i < tamPoblacion; i++){
+		mutado = 0;
+		for (j = 0; j < nCiudades; j++)
+		{
+			prob = (rand() % 1000 + 1) / 1000.0;
+			if (prob < probMut){
+				int pos2 = rand() % nCiudades;
+				int aux = poblacion[i * nCiudades + j];
+				poblacion[i * nCiudades + j] = poblacion[i * nCiudades + pos2];
+				poblacion[i * nCiudades + pos2] = aux;
+				mutado = 1;
+			}
+		}
+		if (mutado == 1){
+			mutados++;
+			extraerVector(poblacion, individuo, i, tamPoblacion, nCiudades);
+			distancias[i] = longitudCircuito(individuo, matrizDistancias, nCiudades);
+			double mayorDistancia = maxElementoVector(distancias, tamPoblacion);
+			aptitud[i] = adaptacion(distancias[i], mayorDistancia);
+		}
+	}
+	 return mutados;
+}
 
 int main()
 {
@@ -407,10 +409,10 @@ int main()
 	crearMatrizDistancia(MatrizDistancia,coordenadasX,coordenadasY,nCiudades);
 	imprimirMatriz(MatrizDistancia,nCiudades,nCiudades);
 
-	int camino2[4] =  {8,2,5,6};
+	int camino2[4] =  {1,2,3,6};
 	int camino3[4] =  {3,1,9,4};
-	int hijo1[4] =  {8, 5, 4};
-	int hijo2[4] =  {8, 5, 4};
+	int hijo1[4] =  {8, 5, 4,3};
+	int hijo2[4] =  {8, 5, 4,3};
 	
 	generaIndividuo(camino,nCiudades);
 	imprimirVector(camino, nCiudades);
