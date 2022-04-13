@@ -24,6 +24,7 @@ void imprimirMatriz(double M[], int f, int c)
 	}
 		
 }
+
 // Genera un vector aleatorio de tama�o n
 void generarVector(double V[], int n, int max)
 {
@@ -82,7 +83,7 @@ void generarMatriz(double M[], int f, int c, int max)
 		 }
 	double t2 = omp_get_wtime(); // tiempo finzalizaci�n
 	double dif1 = t2-t1;  // diferencia
-    printf ("Suma de elementos pararell  = %ld - tiempo %f \n",5,dif1);
+    printf (" - Suma de elementos pararell  = %ld - tiempo %f \n",5,dif1);
  }
  
  int main()

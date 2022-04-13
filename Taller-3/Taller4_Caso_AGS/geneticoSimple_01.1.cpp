@@ -236,136 +236,7 @@ void poblacionInicial(int poblacion[], float distancias[], float aptitud[], int 
 	for (i = 0; i < tamPoblacion; i++){
 		aptitud[i] = adaptacion(distancias[i], longMaxima);
 	}
-}
-
-
-int existe(int camino[],int ciudad,int nCiudades){
-	int i;
-
-	for (i=0; i<nCiudades; i++){
-		if (camino[i] == ciudad){
-			return 1;
-		}
-	}
-	return 0;
-}
-
-
-int buscarPareja(int vector1[], int vector2[],int num ,int tam){
-	int i;
-	for(i=0; i<num;i++){
-		if(vector1[i]==num){
-			return vector2[i];
-		}
-	}
-	return -1;
-}
-
-/*
-El operador de cruce toma dos padres y genera dos cadenas hijas. 
-Los parámetros requeridos son: 
-padre1, padre2: Vectores que contiene la cadena correspondiente los caminos padre
-La función debe retornar:
-hijo1, hijo2: Vectores correspondientes a los decendientes de los caminos padre
-     
-*/		
-
-void subCruce(int inicial, int final, int padre[], int hijo[], int vector1[], int vector2[], int tam, int nCiudades){
-	for (int i = inicial; i < final; i++){
-		int num = padre[i];
-		int e = existe(hijo, num, nCiudades);
-		while (e == 1)
-		{
-			num = buscarPareja(vector1, vector2, num, tam);
-			e = existe(hijo, num, nCiudades);
-		}
-		hijo[i] = num;
-	}
-}
-	 
-void cruce(int padre1[], int padre2[], int hijo1[], int hijo2[],int nCiudades)
-{
-	// se generan aleatoriamente los puntos de cruce
-	int pCruce1 = rand() % (nCiudades-2) + 1;
-	int pCruce2 = (rand() % (nCiudades-pCruce1-1) )+ pCruce1+1;
 	
-	
-	int *vector1, *vector2;
-    int tam = pCruce2-pCruce1;
-    vector1 = ( int * ) malloc ( tam * sizeof ( int ) );
-    vector2 = ( int * ) malloc ( tam * sizeof ( int ) );
-	// iniciamos vectores hijos
-	for(int i=0;i<nCiudades;i++)
-	{
-		hijo1[i]=0;
-		hijo2[i]=0;
-	}
-	
-	// Se insertan en los hijos los genes de la parte central de los padres
-	// hijo1 <- el centro del padre2
-	// hijo2 <- el centro del padre1
-	int k=0;
-	for (int i=pCruce1;i<pCruce2;i++)
-	{
-		hijo1[i]=padre2[i];
-		hijo2[i]=padre1[i];
-		vector2[k] = padre2[i];
-		vector1[k] = padre1[i];
-		k++;
-	}
-	//primera parte del hijo1, se toma la primera parte del padre 1, pero si algun
-    //valor se repite, es reemplazado según la relacion establecida entre los genes
-    //de la parte central.
-	subCruce(0,pCruce1,padre1,hijo1,vector2,vector1,tam,nCiudades);
-
-	// Segunda parte del hijo1, se toma la segunda parte del padre 1, pero si algun
-    // valor se repite, es reemplazado según la relacion establecida entre los genes
-    // de la parte central.
-    subCruce(pCruce2,nCiudades,padre1,hijo1,vector2,vector1,tam,nCiudades);
-
-	//Primera parte del hijo2, se toma la primera parte del padre 2, pero si algun
-    //valor se repite, es reemplazado según la relacion establecida entre los genes
-    //de la parte central.
-
-	subCruce(0,pCruce1,padre2,hijo2,vector1,vector2,tam,nCiudades);
-	//Segunda parte del hijo2, se toma la segunda parte del padre 2, pero si algun
-    //valor se repite, es reemplazado según la relacion establecida entre los genes
-    //de la parte central.
-
-	subCruce(pCruce2,nCiudades,padre2,hijo2,vector1,vector2,tam,nCiudades);
-
-	free(vector1);
-	free(vector2);
- }
-
-
- int mutacion(int poblacion[], double distancia[], double aptitud[],double probMutacion, double matrizDistancias[], int tamPoblacion, int nCiudades){
-	int mutados = 0;
-	int i, j, mutado, *individuo;
-	individuo = (int *)malloc(nCiudades * sizeof(int));
-	double prob;
-	for (i = 0; i < tamPoblacion; i++){
-		mutado = 0;
-		for (j = 0; j < nCiudades; j++)
-		{
-			prob = (rand() % 1000 + 1) / 1000.0;
-			if (prob < probMut){
-				int pos2 = rand() % nCiudades;
-				int aux = poblacion[i * nCiudades + j];
-				poblacion[i * nCiudades + j] = poblacion[i * nCiudades + pos2];
-				poblacion[i * nCiudades + pos2] = aux;
-				mutado = 1;
-			}
-		}
-		if (mutado == 1){
-			mutados++;
-			extraerVector(poblacion, individuo, i, tamPoblacion, nCiudades);
-			distancias[i] = longitudCircuito(individuo, matrizDistancias, nCiudades);
-			double mayorDistancia = maxElementoVector(distancias, tamPoblacion);
-			aptitud[i] = adaptacion(distancias[i], mayorDistancia);
-		}
-	}
-	 return mutados;
 }
 
 int main()
@@ -375,11 +246,10 @@ int main()
     //SetConsoleCP(1252); 
     //SetConsoleOutputCP(1252);
 	// Semilla para n�meros aleatorios
-
 	srand(time(NULL)); 
     
     // Declaraci�n de variables
-	int nCiudades = 4;
+	int nCiudades = 3;
 	int tamPoblacion = 30;
 	int xMin = 5, xMax = 20, yMin = 5, yMax = 20;
 	
@@ -409,17 +279,16 @@ int main()
 	crearMatrizDistancia(MatrizDistancia,coordenadasX,coordenadasY,nCiudades);
 	imprimirMatriz(MatrizDistancia,nCiudades,nCiudades);
 
-	int camino2[4] =  {1,2,3,6};
-	int camino3[4] =  {3,1,9,4};
-	int hijo1[4] =  {8, 5, 4,3};
-	int hijo2[4] =  {8, 5, 4,3};
+	int camino2[3] =  {1, 2, 3};
 	
+	printf("%.2f \n",longitudCircuito(camino2, MatrizDistancia, nCiudades));
 	generaIndividuo(camino,nCiudades);
 	imprimirVector(camino, nCiudades);
 
-	cruce(camino2,camino3,hijo1,hijo2,nCiudades);
+	printf("%.2f \n",longitudMaxima(MatrizDistancia, nCiudades));
+	
 
-	imprimirVector(hijo1, nCiudades);
-	imprimirVector(hijo2, nCiudades);
+	
+	
 	
 }
