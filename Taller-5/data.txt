@@ -2,143 +2,143 @@
 
 **__** # HILOS = 1 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000005 
- - Suma de elementos pararell = 0 - tiempo = 0.000006 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.022403 
+ - Suma de elementos pararell = 1 - tiempo = 0.014174 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000008 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.023259 
+ - Suma de elementos pararell = 1 - tiempo = 0.022349 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000007 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.022660 
+ - Suma de elementos pararell = 1 - tiempo = 0.022709 
 
 
 **__** # HILOS = 2 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000023 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.022316 
+ - Suma de elementos pararell = 1 - tiempo = 0.022609 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000005 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.022304 
+ - Suma de elementos pararell = 1 - tiempo = 0.025325 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000005 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.022472 
+ - Suma de elementos pararell = 1 - tiempo = 0.023177 
 
 
 **__** # HILOS = 3 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000017 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.022460 
+ - Suma de elementos pararell = 1 - tiempo = 0.023995 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000023 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.023408 
+ - Suma de elementos pararell = 1 - tiempo = 0.022814 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000020 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.024346 
+ - Suma de elementos pararell = 1 - tiempo = 0.021124 
 
 
 **__** # HILOS = 4 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000026 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.023579 
+ - Suma de elementos pararell = 1 - tiempo = 0.018880 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000025 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.023598 
+ - Suma de elementos pararell = 1 - tiempo = 0.020203 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000012 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.022377 
+ - Suma de elementos pararell = 1 - tiempo = 0.025172 
 
 
 **__** # HILOS = 5 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000008 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.023137 
+ - Suma de elementos pararell = 1 - tiempo = 0.026523 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000006 
- - Suma de elementos pararell = 0 - tiempo = 0.000034 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.023965 
+ - Suma de elementos pararell = 1 - tiempo = 0.021489 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000016 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.023080 
+ - Suma de elementos pararell = 1 - tiempo = 0.030930 
 
 
 **__** # HILOS = 6 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000005 
- - Suma de elementos pararell = 0 - tiempo = 0.000021 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.022344 
+ - Suma de elementos pararell = 1 - tiempo = 0.023322 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000006 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.022561 
+ - Suma de elementos pararell = 1 - tiempo = 0.020556 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000026 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.025282 
+ - Suma de elementos pararell = 1 - tiempo = 0.021354 
 
 
 **__** # HILOS = 7 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000005 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.025035 
+ - Suma de elementos pararell = 1 - tiempo = 0.019245 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000007 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.023314 
+ - Suma de elementos pararell = 1 - tiempo = 0.022668 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000019 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.022354 
+ - Suma de elementos pararell = 1 - tiempo = 0.022095 
 
 
 **__** # HILOS = 8 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000091 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.023491 
+ - Suma de elementos pararell = 1 - tiempo = 0.018638 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000007 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.022409 
+ - Suma de elementos pararell = 1 - tiempo = 0.017653 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000028 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.022437 
+ - Suma de elementos pararell = 1 - tiempo = 0.020797 
 
 
 **__** # HILOS = 9 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000249 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.023141 
+ - Suma de elementos pararell = 1 - tiempo = 0.032358 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000005 
- - Suma de elementos pararell = 0 - tiempo = 0.000044 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.022324 
+ - Suma de elementos pararell = 1 - tiempo = 0.018572 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000033 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.022367 
+ - Suma de elementos pararell = 1 - tiempo = 0.019350 
 
 
 **__** # HILOS = 10 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000005 
- - Suma de elementos pararell = 0 - tiempo = 0.000042 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.022330 
+ - Suma de elementos pararell = 1 - tiempo = 0.019405 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000055 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.022436 
+ - Suma de elementos pararell = 1 - tiempo = 0.017933 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000041 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.025219 
+ - Suma de elementos pararell = 1 - tiempo = 0.022280 
 
 
 **__** # HILOS = 11 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000005 
- - Suma de elementos pararell = 0 - tiempo = 0.000042 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.022374 
+ - Suma de elementos pararell = 1 - tiempo = 0.017217 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000138 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.023624 
+ - Suma de elementos pararell = 1 - tiempo = 0.022730 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000065 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.022293 
+ - Suma de elementos pararell = 1 - tiempo = 0.018057 
 
 
 **__** # HILOS = 12 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000005 
- - Suma de elementos pararell = 0 - tiempo = 0.000055 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.022371 
+ - Suma de elementos pararell = 1 - tiempo = 0.020150 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000057 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.022454 
+ - Suma de elementos pararell = 1 - tiempo = 0.022590 
 
- - **_**Suma de elementos secuencial = 0 - tiempo = 0.000004 
- - Suma de elementos pararell = 0 - tiempo = 0.000055 
+ - **_**Suma de elementos secuencial = 0 - tiempo = 0.023285 
+ - Suma de elementos pararell = 1 - tiempo = 0.021465 

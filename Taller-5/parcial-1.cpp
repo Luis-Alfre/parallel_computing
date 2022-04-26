@@ -3,7 +3,7 @@
 #include <time.h>
 #include <omp.h>
 
-#define N 1000
+#define N 5000
 
 void imprimirMatriz(double M[], int f, int c)
 {
@@ -24,10 +24,10 @@ double generateMatrixSerial(double M[], int n){
     int c,d;
     for(c = 0; c < n; c++){
         for(d = 0; d < n; d++){
-            M[c*n+d]= rand()%51;
+            M[c*n+d] = 0;
         }
     }
-    double t2 = omp_get_wtime(); // tiempo finzalizaci�n
+    double t2 = omp_get_wtime(); // tiempo finzaliza
     return (t2-t1);  // diferencia
 }
 
@@ -72,9 +72,12 @@ double generateMatrixParallel(double M[], int n, int k){
    	#pragma omp parallel for private(c,d) shared(M)  num_threads(k)
     for(c = 0; c < n; c++){
         for(d = 0; d < n; d++){
-            M[c*n+d]= rand()%51;
+            M[c*n+d]= 0;
         }
     }
+    int v1=rand()%n;
+    int v2=rand()%n;
+    M[v1*n+v2] = 1;
     double t2 = omp_get_wtime(); // tiempo finzalizaci�n
 	return (t2-t1);  // diferencia
  }
@@ -97,20 +100,19 @@ void checkSymmetryParallel(double M[],double MT[], int n, int k, double difP){
     double t1 = omp_get_wtime(); // tiempo inicio
     int c,d;
     int x = 1;
-    #pragma omp parallel for private(c,d) shared(M, MT,x)  num_threads(k)    
-    for(c = 0; c < n ; c++){
+    #pragma omp parallel for private(c,d,x) shared(M, MT)  num_threads(k)    
+     for(c = 0; c < n; c++){
         if(x == 0) continue;
         for(d = 0; d < n; d++){
             if(x == 0) continue;
              if(M[c*n+d] != MT[c*n+d] ){
-                 x=0;
+                x=0;
              }
          }
-        
     }
     double t2 = omp_get_wtime(); // tiempo finzalizaci�n
 	difP= t2-t1;  // diferencia
-    printf (" - Suma de elementos pararell = %ld - tiempo = %f \n",0,difP);
+    printf (" - Suma de elementos pararell = %ld - tiempo = %f \n",x,difP);
 }
 
 int main(){
@@ -126,6 +128,9 @@ int main(){
     MT = ( double * ) malloc ( n * n * sizeof ( double ) );
 	srand(time(NULL));
 
+    int v1=rand()%(n);
+    int v2=rand()%n;
+    
 
     int k=0;
     int x;
@@ -135,10 +140,12 @@ int main(){
         difP=0;
         difS=0;
         difS+=generateMatrixSerial(M,n);
+        M[v1*n+v2] = 1;
         difS+=transposeSerial(M,MT,n);
         checkSymmetrySerial(M, MT, n,difS);
 
         difP+=generateMatrixParallel(M,n,k);
+        M[v1*n+v2] = 1;
         difP+=transposeParallel(M,MT,n,k);
         checkSymmetryParallel(M, MT, n,k,difP);
         }
