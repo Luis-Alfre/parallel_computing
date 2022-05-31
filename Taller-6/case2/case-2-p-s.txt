@@ -1,0 +1,180 @@
+
+
+**__** # PROCESADORES = 1 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.146528 
+ - Suma de elementos pararell = 333300 - tiempo = 0.115538 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.115493 
+ - Suma de elementos pararell = 333300 - tiempo = 0.115150 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.116485 
+ - Suma de elementos pararell = 333300 - tiempo = 0.116176 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.124978 
+ - Suma de elementos pararell = 333300 - tiempo = 0.115332 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.115585 
+ - Suma de elementos pararell = 333300 - tiempo = 0.115381 
+
+
+**__** # PROCESADORES = 2 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.117525 
+ - Suma de elementos pararell = 333300 - tiempo = 0.091224 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.120386 
+ - Suma de elementos pararell = 333300 - tiempo = 0.078851 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.117912 
+ - Suma de elementos pararell = 333300 - tiempo = 0.083937 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.118431 
+ - Suma de elementos pararell = 333300 - tiempo = 0.079493 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.118243 
+ - Suma de elementos pararell = 333300 - tiempo = 0.079173 
+
+
+**__** # PROCESADORES = 3 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.117879 
+ - Suma de elementos pararell = 333300 - tiempo = 0.072464 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.121833 
+ - Suma de elementos pararell = 333300 - tiempo = 0.086632 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.125261 
+ - Suma de elementos pararell = 333300 - tiempo = 0.088126 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.118918 
+ - Suma de elementos pararell = 333300 - tiempo = 0.087863 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.124741 
+ - Suma de elementos pararell = 333300 - tiempo = 0.087865 
+
+
+**__** # PROCESADORES = 4 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.127739 
+ - Suma de elementos pararell = 333300 - tiempo = 0.070253 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.122478 
+ - Suma de elementos pararell = 333300 - tiempo = 0.074023 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.121213 
+ - Suma de elementos pararell = 333300 - tiempo = 0.073788 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.119904 
+ - Suma de elementos pararell = 333300 - tiempo = 0.070241 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.123193 
+ - Suma de elementos pararell = 333300 - tiempo = 0.068622 
+
+
+**__** # PROCESADORES = 5 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.123614 
+ - Suma de elementos pararell = 333300 - tiempo = 0.059099 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.120416 
+ - Suma de elementos pararell = 333300 - tiempo = 0.058203 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.121200 
+ - Suma de elementos pararell = 333300 - tiempo = 0.059751 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.124051 
+ - Suma de elementos pararell = 333300 - tiempo = 0.059109 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.122633 
+ - Suma de elementos pararell = 333300 - tiempo = 0.059615 
+
+
+**__** # PROCESADORES = 6 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.119215 
+ - Suma de elementos pararell = 333300 - tiempo = 0.050065 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.120566 
+ - Suma de elementos pararell = 333300 - tiempo = 0.052217 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.118268 
+ - Suma de elementos pararell = 333300 - tiempo = 0.051764 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.119472 
+ - Suma de elementos pararell = 333300 - tiempo = 0.050146 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.120898 
+ - Suma de elementos pararell = 333300 - tiempo = 0.050580 
+
+
+**__** # PROCESADORES = 7 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.122195 
+ - Suma de elementos pararell = 333300 - tiempo = 0.045457 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.119294 
+ - Suma de elementos pararell = 333300 - tiempo = 0.044021 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.118832 
+ - Suma de elementos pararell = 333300 - tiempo = 0.044612 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.117680 
+ - Suma de elementos pararell = 333300 - tiempo = 0.045082 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.122096 
+ - Suma de elementos pararell = 333300 - tiempo = 0.043583 
+
+
+**__** # PROCESADORES = 8 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.128403 
+ - Suma de elementos pararell = 333300 - tiempo = 0.039780 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.118827 
+ - Suma de elementos pararell = 333300 - tiempo = 0.038785 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.118947 
+ - Suma de elementos pararell = 333300 - tiempo = 0.039712 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.124976 
+ - Suma de elementos pararell = 333300 - tiempo = 0.038974 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.118409 
+ - Suma de elementos pararell = 333300 - tiempo = 0.038608 
+
+
+**__** # PROCESADORES = 9 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.119516 
+ - Suma de elementos pararell = 333300 - tiempo = 0.034684 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.118153 
+ - Suma de elementos pararell = 333300 - tiempo = 0.036101 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.117797 
+ - Suma de elementos pararell = 333300 - tiempo = 0.034565 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.117549 
+ - Suma de elementos pararell = 333300 - tiempo = 0.034333 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.116915 
+ - Suma de elementos pararell = 333300 - tiempo = 0.036127 
+
+
+**__** # PROCESADORES = 10 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.124918 
+ - Suma de elementos pararell = 333300 - tiempo = 0.032449 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.125144 
+ - Suma de elementos pararell = 333300 - tiempo = 0.031538 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.126316 
+ - Suma de elementos pararell = 333300 - tiempo = 0.032798 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.116856 
+ - Suma de elementos pararell = 333300 - tiempo = 0.030923 
+ 
+ - **_**Suma de elementos secuencial = 333300 - tiempo = 0.118640 
+ - Suma de elementos pararell = 333300 - tiempo = 0.031594 

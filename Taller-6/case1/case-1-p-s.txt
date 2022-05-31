@@ -1,0 +1,180 @@
+
+
+**__** # PROCESADORES = 1 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.796873 
+- Suma de elementos pararell = 50880 - tiempo = 0.764488 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.763839 
+- Suma de elementos pararell = 50880 - tiempo = 0.768141 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.766523 
+- Suma de elementos pararell = 50880 - tiempo = 0.793674 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.814815 
+- Suma de elementos pararell = 50880 - tiempo = 0.775919 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.813364 
+- Suma de elementos pararell = 50880 - tiempo = 0.806720 
+
+
+**__** # PROCESADORES = 2 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.789509 
+- Suma de elementos pararell = 50880 - tiempo = 0.440880 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.786644 
+- Suma de elementos pararell = 50880 - tiempo = 0.436601 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.809177 
+- Suma de elementos pararell = 50880 - tiempo = 0.435900 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.786773 
+- Suma de elementos pararell = 50880 - tiempo = 0.428088 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.780194 
+- Suma de elementos pararell = 50880 - tiempo = 0.415272 
+
+
+**__** # PROCESADORES = 3 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.779032 
+- Suma de elementos pararell = 50880 - tiempo = 0.326503 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.774113 
+- Suma de elementos pararell = 50880 - tiempo = 0.307356 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.788843 
+- Suma de elementos pararell = 50880 - tiempo = 0.298993 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.826713 
+- Suma de elementos pararell = 50880 - tiempo = 0.301989 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.780473 
+- Suma de elementos pararell = 50880 - tiempo = 0.299659 
+
+
+**__** # PROCESADORES = 4 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.767109 
+- Suma de elementos pararell = 50880 - tiempo = 0.302087 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.770559 
+- Suma de elementos pararell = 50880 - tiempo = 0.235209 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.773766 
+- Suma de elementos pararell = 50880 - tiempo = 0.239991 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.782023 
+- Suma de elementos pararell = 50880 - tiempo = 0.252652 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.839268 
+- Suma de elementos pararell = 50880 - tiempo = 0.240610 
+
+
+**__** # PROCESADORES = 5 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.845237 
+- Suma de elementos pararell = 50880 - tiempo = 0.334594 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.780047 
+- Suma de elementos pararell = 50880 - tiempo = 0.315098 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.790719 
+- Suma de elementos pararell = 50880 - tiempo = 0.313683 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.810908 
+- Suma de elementos pararell = 50880 - tiempo = 0.330125 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.798036 
+- Suma de elementos pararell = 50880 - tiempo = 0.334859 
+
+
+**__** # PROCESADORES = 6 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.802905 
+- Suma de elementos pararell = 50880 - tiempo = 0.306920 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.815414 
+- Suma de elementos pararell = 50880 - tiempo = 0.272432 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.797497 
+- Suma de elementos pararell = 50880 - tiempo = 0.286404 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.828976 
+- Suma de elementos pararell = 50880 - tiempo = 0.286525 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.819378 
+- Suma de elementos pararell = 50880 - tiempo = 0.276626 
+
+
+**__** # PROCESADORES = 7 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.807774 
+- Suma de elementos pararell = 50880 - tiempo = 0.271764 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.776025 
+- Suma de elementos pararell = 50880 - tiempo = 0.257778 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.811005 
+- Suma de elementos pararell = 50880 - tiempo = 0.290344 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.852198 
+- Suma de elementos pararell = 50880 - tiempo = 0.278316 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.816191 
+- Suma de elementos pararell = 50880 - tiempo = 0.265255 
+
+
+**__** # PROCESADORES = 8 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.817865 
+- Suma de elementos pararell = 50880 - tiempo = 0.255592 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.795015 
+- Suma de elementos pararell = 50880 - tiempo = 0.245384 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.825219 
+- Suma de elementos pararell = 50880 - tiempo = 0.250086 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.784364 
+- Suma de elementos pararell = 50880 - tiempo = 0.238116 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.823126 
+- Suma de elementos pararell = 50880 - tiempo = 0.249985 
+
+
+**__** # PROCESADORES = 9 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.812636 
+- Suma de elementos pararell = 50880 - tiempo = 0.249141 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.779860 
+- Suma de elementos pararell = 50880 - tiempo = 0.247163 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.796189 
+- Suma de elementos pararell = 50880 - tiempo = 0.249387 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.767039 
+- Suma de elementos pararell = 50880 - tiempo = 0.266555 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.774252 
+- Suma de elementos pararell = 50880 - tiempo = 0.245760 
+
+
+**__** # PROCESADORES = 10 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.764503 
+- Suma de elementos pararell = 50880 - tiempo = 0.233747 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.765767 
+- Suma de elementos pararell = 50880 - tiempo = 0.243103 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.768099 
+- Suma de elementos pararell = 50880 - tiempo = 0.269474 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.762542 
+- Suma de elementos pararell = 50880 - tiempo = 0.247044 
+ 
+ - **_**Suma de elementos serial = 50880 - tiempo = 0.833298 
+- Suma de elementos pararell = 50880 - tiempo = 0.259654 

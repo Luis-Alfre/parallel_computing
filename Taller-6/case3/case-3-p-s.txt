@@ -1,0 +1,180 @@
+
+
+**__** # PROCESADORES = 1 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.002537 
+ - Suma de elementos pararell = 20662 - tiempo = 0.002726 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.003354 
+ - Suma de elementos pararell = 20662 - tiempo = 0.003388 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.002195 
+ - Suma de elementos pararell = 20662 - tiempo = 0.002369 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.002198 
+ - Suma de elementos pararell = 20662 - tiempo = 0.002314 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.002198 
+ - Suma de elementos pararell = 20662 - tiempo = 0.002418 
+
+
+**__** # PROCESADORES = 2 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.002169 
+ - Suma de elementos pararell = 20662 - tiempo = 0.001279 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.002180 
+ - Suma de elementos pararell = 20662 - tiempo = 0.001264 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.002399 
+ - Suma de elementos pararell = 20662 - tiempo = 0.001589 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.002215 
+ - Suma de elementos pararell = 20662 - tiempo = 0.001175 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.002174 
+ - Suma de elementos pararell = 20662 - tiempo = 0.001175 
+
+
+**__** # PROCESADORES = 3 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.002175 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000898 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001259 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000945 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001257 
+ - Suma de elementos pararell = 20662 - tiempo = 0.001156 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001221 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000705 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001185 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000661 
+
+
+**__** # PROCESADORES = 4 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001265 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000859 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001191 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000739 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001212 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000907 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001108 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000711 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001114 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000691 
+
+
+**__** # PROCESADORES = 5 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001120 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000934 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001098 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000829 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001154 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000798 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001099 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000747 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001104 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000773 
+
+
+**__** # PROCESADORES = 6 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001067 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000706 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001360 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000638 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001336 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000735 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001336 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000651 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001367 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000658 
+
+
+**__** # PROCESADORES = 7 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001361 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000682 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001331 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000563 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001347 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000559 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001346 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000558 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001366 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000538 
+
+
+**__** # PROCESADORES = 8 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001360 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000552 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001359 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000500 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001366 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000483 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001356 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000493 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001355 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000483 
+
+
+**__** # PROCESADORES = 9 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001356 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000505 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001013 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000450 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001033 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000450 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001076 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000468 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001025 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000445 
+
+
+**__** # PROCESADORES = 10 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001027 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000580 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.002030 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000540 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001749 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000775 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001787 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000481 
+ 
+ - **_**Suma de elementos secuencial = 20662 - tiempo = 0.001634 
+ - Suma de elementos pararell = 20662 - tiempo = 0.000454 
